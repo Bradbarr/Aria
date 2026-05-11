@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#060A14"/>
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00D4FF" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#060A14" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#glow)"/>
+  <text x="256" y="290" font-family="Arial Black, Arial" font-weight="900" font-size="168" fill="#00D4FF" text-anchor="middle" letter-spacing="12"
+    style="filter: drop-shadow(0 0 24px rgba(0,212,255,0.8))">ARIA</text>
+  <line x1="128" y1="340" x2="384" y2="340" stroke="#00D4FF" stroke-opacity="0.3" stroke-width="2"/>
+  <text x="256" y="372" font-family="Arial" font-size="36" fill="#00D4FF" fill-opacity="0.4" text-anchor="middle" letter-spacing="8">INTELLIGENCE</text>
+</svg>
